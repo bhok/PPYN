@@ -24,13 +24,13 @@ import (
 )
 
 var (
-	MainnetGenesisHash = common.HexToHash("0x5b44a92a842a888b8b7cc1ff7eaac9800edf88a6a5f3d38850deb63d46acd880")
-	TestnetGenesisHash = common.HexToHash("0x84337e882fad5883e2ed6e587ab5bdf711b7107a39abe8e080784bb30c8f047e")
+	MainnetGenesisHash = common.HexToHash("0x5b44a92a842a888b8b7cc1ff7eaac9800edf88a6a5f3d38850deb63d46acd880") //To edit
+	TestnetGenesisHash = common.HexToHash("0x84337e882fad5883e2ed6e587ab5bdf711b7107a39abe8e080784bb30c8f047e") //To edit
 )
 
 const (
-	MainnetChainID = 60
-	TestnetChainID = 31337
+	MainnetChainID = 747
+	TestnetChainID = 17747
 )
 
 var (
